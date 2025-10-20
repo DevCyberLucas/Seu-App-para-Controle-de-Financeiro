@@ -1,0 +1,4 @@
+Este trabalho apresenta um aplicativo móvel de controle financeiro cujo objetivo é permitir que usuários registrem receitas e despesas de forma rápida, acompanhem o saldo em tempo real, visualizem padrões de gasto por categoria e definam metas orçamentárias para melhorar sua saúde financeira. O público-alvo inclui estudantes, jovens profissionais e famílias que buscam uma solução simples e acessível para gerenciar finanças pessoais. O projeto contempla protótipo navegável, implementação básica com persistência local e funcionalidades essenciais como cadastro, registro de transações e exportação de dados, acompanhado de documentação técnica e roteiro de apresentação para demonstrar o funcionamento e os principais benefícios do aplicativo.
+
+
+[COMPUTAÇÃO PARA  DISPOSITIVOS MÓVEIS.pdf](https://github.com/user-attachments/files/22994737/COMPUTACAO.PARA.DISPOSITIVOS.MOVEIS.pdf)
